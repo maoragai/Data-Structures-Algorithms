@@ -1,5 +1,5 @@
 #   Agai Maor
-#   305544546
+
 #   ex1a
 
 # queue implementation as a class
