@@ -1,5 +1,5 @@
 # Maor Agai
-# 305544546
+
 # ex10b
 
 class hashtabl():
